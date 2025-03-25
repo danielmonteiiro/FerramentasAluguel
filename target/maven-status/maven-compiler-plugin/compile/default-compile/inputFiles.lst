@@ -1,0 +1,17 @@
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\dao\ClienteDAO.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\dao\FerramentaDAO.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\dao\ReservasDAO.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\FerramentasAluguel.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\model\Clientes.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\model\Ferramentas.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\model\Reservas.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\persistencia\JPAUtil.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaaddcliente.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaAddFerramentas.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaAddReservas.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaEditarCliente.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaEditarFerramenta.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telahome.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaListaClientes.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaListaFerramentas.java
+D:\Documentos HD\NetBeansProjects\FerramentasAluguel\src\main\java\br\com\aluguel\ferramentasaluguel\view\telaListaReservas.java
